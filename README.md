@@ -1,4 +1,4 @@
 # sanjanagitdemo
 this is my first git lab
 <br>
-author sanjana raut
+author sanjana sachin raut
